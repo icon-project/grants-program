@@ -1,6 +1,6 @@
 ## Intro
 
-## Guidelines
+## Summary
 
 ## Roadmap
 
@@ -8,4 +8,9 @@ Include milestones...
 
 ## Deliverables
 
-## Conformance agreement
+
+## Guidelines
+
+Agreement to abide by Icon standards
+
+### Deliverable conformance agreement
