@@ -10,13 +10,15 @@ This is Project A by Team A. This is a project proposal at time-date, with expec
 ## Summary
 
 ### Team description
-_In-depth summary of team, including specialties, reference projects or contacts (contact must agree to provide information before being listed here)._
+_In-depth summary of team, including specialties, reference projects or contacts (contact must agree to provide information before being listed here)_
 
 ### Project description
-_In-depth summary of project, including motivation, services and deliverables proposed, expected engagement, and benefit to Icon Ecosystem_
+_In-depth summary of project, including motivation, services and deliverables proposed, expected engagement, and benefit to ICON Ecosystem_
 
 ## Roadmap
-_Clearly formatted table_
+_Clearly formatted table. CPS roadmap should be made in accordance with 30 day funding cycles. Please see [this explanation](https://github.com/icon-community/CPS/wiki/Funding-Cycles) of CPS funding cycles and how it may affect development._
+
+Expected start date: _start date_
 
 __Roadmap__
 | Name | Time [days] | Completion Date | Explanation | Dependants |
@@ -41,15 +43,15 @@ _In-depth explanation of maintenance plan_
 
 ## Budget
 
-_Budget for project_
+_Budget for project. Funding for CPS grants is available in bnUSD. Funding for ICON Foundation grants is available in ICX or USD_
 
 __Budget__
-| Source | Amount [bnUSD, USDS, or ICX] | Time [days] | Notes |
+| Source | Amount | Time [days] | Notes |
 | ------ | ---------------------------- | ---- | ----- |
-| Person 1 | bnUSD 7000 | 60 days | This is the project lead |
-| Person 2 | bnUSD 6000 | 60 days | This is the second developer |
-| Service 1 | bnUSD 500 | 45 days| This is the service for providing X. It is necessary for the testing phase |
-| Service 2 | bnUSD 100 | 30 days| This is the service for providing Y. It is necessary for communications and marketing |
+| Person 1 | USD 7000 | 60 days | This is the project lead |
+| Person 2 | USD 6000 | 60 days | This is the second developer |
+| Service 1 | USD 500 | 45 days| This is the service for providing X. It is necessary for the testing phase |
+| Service 2 | USD 100 | 30 days| This is the service for providing Y. It is necessary for communications and marketing |
 
 ## Guidelines
 
@@ -59,4 +61,4 @@ Icon ecosystem projects should abide by the guidelines made available from the f
 
 ### Deliverable conformance agreement
 
-_In order for your project to be funded, you are agreeing to conform to the best practices of software or product development as explained by the sources above._
+__In order for your project to be funded, you are agreeing to conform to the best practices of software, product development, and professional conduct as explained by the sources above.__
