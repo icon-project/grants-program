@@ -4,7 +4,7 @@ This is Project A by Team A. This is progress report x/X from time-date.
 
 ## Summary
 
-_In-depth summary of project status, including sentiment, roadmap / timing, engagement so far, feedback to Icon Foundation or community, major issues / roadblocks_
+_In-depth summary of project status, including sentiment, roadmap / timing, engagement so far, feedback to Icon Foundation or community, major issues / roadblocks._
 
 ## Amendments to roadmap
 
