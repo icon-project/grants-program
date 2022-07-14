@@ -23,6 +23,11 @@ _As of now, [CPS](https://cps.icon.community) projects may not request amendment
 
 _All budget amendment requests must provide strict and logical reasoning. The requester is susceptible to denial of request for budget amendment if the grant provider does not perceive this request to provide sufficient reason._
 
+| Source | Amount [bnUSD, USDS, or ICX] | Time [days] | Notes |
+| ------ | ---------------------------- | ---- | ----- |
+| Person 1 | bnUSD 7000 | 10 days | This is the second developer. They will be necessary for an extra 10 days due to the change in expected completion date for Milestone 1 in the Roadmap Amendments |
+| Service 1 | bnUSD 100 | 20 days | This is the service for providing X. It will be necessary for an extra 20 days due to the change in expected completion date for Milestone 3 in the Roadmap Amendments |
+
 ## Deliverables
 
 ### Accomplished this cycle

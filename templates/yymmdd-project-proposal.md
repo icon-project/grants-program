@@ -46,10 +46,10 @@ _Budget for project_
 __Budget__
 | Source | Amount [bnUSD, USDS, or ICX] | Time [days] | Notes |
 | ------ | ---------------------------- | ---- | ----- |
-| Person 1 | bnUSD 7000| 60 days | This is the project lead |
-| Person 2 | bnUSD 6000| 60 days | This is the second developer |
-| Service 1 | bnUSD 500| 45 days| This is the service for providing X. It is necessary for the testing phase |
-| Service 2 | bnUSD 100| 30 days| This is the service for providing Y. It is necessary for communications and marketing |
+| Person 1 | bnUSD 7000 | 60 days | This is the project lead |
+| Person 2 | bnUSD 6000 | 60 days | This is the second developer |
+| Service 1 | bnUSD 500 | 45 days| This is the service for providing X. It is necessary for the testing phase |
+| Service 2 | bnUSD 100 | 30 days| This is the service for providing Y. It is necessary for communications and marketing |
 
 ## Guidelines
 
