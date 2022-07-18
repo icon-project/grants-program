@@ -29,7 +29,7 @@ __Roadmap__
 
 ## Deliverables
 
-_Deliverables projected for next cycle_
+_Deliverables projected for project_
 
 __Deliverables__
 | Name | Explanation | Notes |

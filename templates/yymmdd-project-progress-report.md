@@ -32,14 +32,14 @@ _All budget amendment requests must provide strict and logical reasoning. The re
 
 ### Accomplished this cycle
 
-_Which deliverables are ready now?_
+_Which deliverables are ready now? Deliverable states are denoted in the development guidelines listed in the [Conformance summary section](#Conformance-summary)_
 
 __Deliverables ready__
 | Name | Development State | Notes | Source / location |
 | ---- | ----------------- | ----- | ----------------- |
 | Example 1 | Beta | This needs to be debugged based on usage, but may be released | [Github repo](https://github.com) |
-| Example 2 | Ready | This has been developed and sufficiently debugged | [Webapp](https://example.com) |
-| Example 3 | Ready | This is a marketing effort | No direct link to source, but can be tracked on Twitter and Discord |
+| Example 2 | Release | This has been developed and sufficiently debugged | [Webapp](https://example.com) |
+| Example 3 | Release | This is a marketing effort | No direct link to source, but can be tracked on Twitter and Discord |
 
 ### Projected for next cycle
 
@@ -49,7 +49,7 @@ __Deliverables projected for next cycle__
 | Name | Development State | Notes |
 | ---- | ----------------- | ----- |
 | Example 1 | Not started | This has not been started, but can be expected to be completed by the next progress report |
-| Example 2 | Alpha | This is currently being tested internally, and is expected to be in Beta by the next progress report ycle |
+| Example 2 | Alpha | This is currently being tested internally, and is expected to be in Beta by the next progress report cycle |
 
 ## Conformance summary
 
@@ -71,7 +71,7 @@ _Link to license file_
 _Link to documentations_
 
 ### Security analysis
-_Link to security analysis_
+_Summary of security analysis and link to security analysis resources_
 
 ### Semantic versioning / branching analysis
 _Link to semantic versioning / branching practices for analysis_
