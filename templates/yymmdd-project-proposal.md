@@ -1,5 +1,5 @@
 ## Intro
-This is Project A by Team A. This is a project proposal at time-date, with expected completion after X days.
+This is "Project A" by Team A. This is a project proposal at time-date, with expected completion after X days for a total requested budget of $X.
 
 ### Portfolio Link
 
@@ -13,10 +13,10 @@ This is Project A by Team A. This is a project proposal at time-date, with expec
 _In-depth summary of team, including specialties, reference projects or contacts (contact must agree to provide information before being listed here)_
 
 ### Project description
-_In-depth summary of project, including motivation, services and deliverables proposed, expected engagement, and benefit to ICON Ecosystem_
+_In-depth summary of project, including motivation, services and deliverables proposed, expected engagement, total requested budget and benefit to the greater ICON Ecosystem_
 
 ## Roadmap
-_Clearly formatted table. CPS roadmap should be made in accordance with 30 day funding cycles. Please see [this explanation](https://github.com/icon-community/CPS/wiki/Funding-Cycles) of CPS funding cycles and how it may affect development._
+_Clearly formatted table. Projects applying for CPS funding should have roadmaps made in accordance with 30 day funding cycles. Please see [this explanation](https://github.com/icon-community/CPS/wiki/Funding-Cycles) of CPS funding cycles and how it may affect development and disbursement of funding_
 
 Expected start date: _start date_
 
@@ -34,7 +34,7 @@ _Deliverables projected for project_
 __Deliverables__
 | Name | Explanation | Notes |
 | ---- | ----------- | ----- |
-| Example 1 | Icon ecosystem needs a better tool for this. It has been requested via community poll and provides these benefits | This is based on the existing tool from Cosmos called 123xyz |
+| Example 1 | ICON ecosystem needs a better tool for this. It has been requested via community poll and provides these benefits | This is based on the existing tool from Cosmos called 123xyz |
 | Example 2 | This facilitates a better experience using Example 1 tool. It would be great to have, but it is technically not necessary for Example Task to be performed adequately | This is a visual tool |
 
 ### Maintenance
@@ -43,7 +43,7 @@ _In-depth explanation of maintenance plan_
 
 ## Budget
 
-_Budget for project. Funding for CPS grants is available in bnUSD. Funding for ICON Foundation grants is available in ICX or USD_
+_Budget for project. Funding for CPS grants is available in [bnUSD (stablecoin)](https://balanced.network/stablecoin/). Funding for ICON Foundation grants is available in ICX or USD_
 
 __Budget__
 | Source | Amount | Time [days] | Notes |
@@ -55,9 +55,9 @@ __Budget__
 
 ## Guidelines
 
-Icon ecosystem projects should abide by the guidelines made available from the following sources:
+ICON ecosystem projects should abide by the guidelines made available from the following sources:
 
-- [Icon Community Guidelines](https://github.com/icon-project/community/tree/main/guidelines)
+- [ICON Community Guidelines](https://github.com/icon-project/community/tree/main/guidelines)
 
 ### Deliverable conformance agreement
 
