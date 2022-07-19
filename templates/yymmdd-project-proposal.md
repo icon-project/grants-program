@@ -43,7 +43,7 @@ _In-depth explanation of maintenance plan_
 
 ## Budget
 
-_Budget for project. Funding for CPS grants is available in bnUSD (stablecoin). Funding for ICON Foundation grants is available in ICX or USD_
+_Budget for project. Funding for CPS grants is available in [bnUSD (stablecoin)](https://balanced.network/stablecoin/). Funding for ICON Foundation grants is available in ICX or USD_
 
 __Budget__
 | Source | Amount | Time [days] | Notes |
