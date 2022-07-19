@@ -1,6 +1,11 @@
-## Intro
+---
+Project Name: Project A
+Author: Bob
+Grant Proposal: Link to grant proposal
+Progress Report Number: x/X
+Date: dd Month yyyy
 
-This is Project A by Team A. This is progress report x/X from time-date.
+---
 
 ## Summary
 
