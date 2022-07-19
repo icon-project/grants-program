@@ -1,8 +1,12 @@
 ---
 Project Name: Project A
+Contact Name: Bob Smith
 Contact Information: email@example.com
 Company Name: N/A
 Submission Date: dd Month yyyy
+Request Amount (USD): USD [XX,XXX.XX]
+Payment Currency (Crypto): ICX | USDT | USDC 
+Grant Category: RFP | Infrastructure & Core Development | Business Application
 
 ---
 
