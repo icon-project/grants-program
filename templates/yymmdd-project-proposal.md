@@ -1,5 +1,10 @@
-## Intro
-This is Project A by Team A. This is a project proposal at time-date, with expected completion after X days.
+---
+Project Name: Project A
+Contact Information: email@example.com
+Company Name: N/A
+Submission Date: dd Month yyyy
+
+---
 
 ### Portfolio Link
 
