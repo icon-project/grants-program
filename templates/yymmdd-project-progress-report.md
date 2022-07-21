@@ -1,6 +1,6 @@
 ## Intro
 
-This is Project A by Team A. This is progress report x/X from time-date.
+This is "Project A" by Team A. This is progress report x/X from time-date.
 
 ## Summary
 
@@ -21,12 +21,12 @@ __Roadmap amendments__
 
 _As of now, [CPS](https://cps.icon.community) projects may not request amendments to the originally proposed budget_
 
-_All budget amendment requests must provide strict and logical reasoning. The requester is susceptible to denial of request for budget amendment if the grant provider does not perceive this request to provide sufficient reason. Funding for CPS grants is available in bnUSD. Funding for ICON Foundation grants is available in ICX or USD_
+_All budget amendment requests must provide strict and logical reasoning. The requester is susceptible to denial of request for budget amendment if the grant provider does not perceive this request to provide sufficient reason. Funding for CPS grants is available in [bnUSD (stablecoin)](https://balanced.network/stablecoin/). Funding for ICON Foundation grants is available in ICX or USD_
 
 | Source | Amount | Time [days] | Notes |
 | ------ | ---------------------------- | ---- | ----- |
-| Person 1 | ICX 7000 | 10 days | This is the second developer. They will be necessary for an extra 10 days due to the change in expected completion date for Milestone 1 in the Roadmap Amendments |
-| Service 1 | ICX 100 | 20 days | This is the service for providing X. It will be necessary for an extra 20 days due to the change in expected completion date for Milestone 3 in the Roadmap Amendments |
+| Person 1 | USD 7000 | 10 days | This is the second developer. They will be necessary for an extra 10 days due to the change in expected completion date for Milestone 1 in the Roadmap Amendments |
+| Service 1 | USD 100 | 20 days | This is the service for providing X. It will be necessary for an extra 20 days due to the change in expected completion date for Milestone 3 in the Roadmap Amendments |
 
 ## Deliverables
 
@@ -53,9 +53,9 @@ __Deliverables projected for next cycle__
 
 ## Conformance summary
 
-Icon ecosystem projects should abide by the guidelines made available from the following sources:
+ICON ecosystem projects should abide by the guidelines made available from the following sources:
 
-- [Icon Community Guidelines](https://github.com/icon-project/community/tree/main/guidelines)
+- [ICON Community Guidelines](https://github.com/icon-project/community/tree/main/guidelines)
 
 ### Deliverable conformance agreement
 
