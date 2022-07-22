@@ -25,8 +25,8 @@ _All budget amendment requests must provide strict and logical reasoning. The re
 
 | Source | Amount | Time [days] | Notes |
 | ------ | ---------------------------- | ---- | ----- |
-| Person 1 | USD 7000 | 10 days | This is the second developer. They will be necessary for an extra 10 days due to the change in expected completion date for Milestone 1 in the Roadmap Amendments |
-| Service 1 | USD 100 | 20 days | This is the service for providing X. It will be necessary for an extra 20 days due to the change in expected completion date for Milestone 3 in the Roadmap Amendments |
+| Person 1 | ICX 7000 | 10 days | This is the second developer. They will be necessary for an extra 10 days due to the change in expected completion date for Milestone 1 in the Roadmap Amendments |
+| Service 1 | ICX 100 | 20 days | This is the service for providing X. It will be necessary for an extra 20 days due to the change in expected completion date for Milestone 3 in the Roadmap Amendments |
 
 ## Deliverables
 
