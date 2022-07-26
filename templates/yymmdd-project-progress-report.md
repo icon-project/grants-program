@@ -8,7 +8,7 @@ _In-depth summary of project status, including sentiment, roadmap / timing, enga
 
 ## Amendments to roadmap
 
-_Clearly formatted table. For [CPS](https://cps.icon.community) projects, please see [this explanation](https://github.com/icon-community/CPS/wiki/Applicant-Flow) of the possible states of the project and how they may affect development._
+_Clearly formatted table. For [CPS](https://cps.icon.community) projects, please see [this explanation](https://github.com/icon-community/CPS/wiki/Project-Activity-Flow-States) of the possible states of the project and how they may affect development._
 
 __Roadmap amendments__
 | Name | Change | Explanation | Dependants |

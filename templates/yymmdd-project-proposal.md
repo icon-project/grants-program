@@ -16,7 +16,7 @@ _In-depth summary of team, including specialties, reference projects or contacts
 _In-depth summary of project, including motivation, services and deliverables proposed, expected engagement, total requested budget and benefit to the greater ICON Ecosystem_
 
 ## Roadmap
-_Clearly formatted table. Projects applying for CPS funding should have roadmaps made in accordance with 30 day funding cycles. Please see [this explanation](https://github.com/icon-community/CPS/wiki/Funding-Cycles) of CPS funding cycles and how it may affect development and disbursement of funding_
+_Clearly formatted table. Projects applying for CPS funding should have roadmaps made in accordance with 30 day funding cycles. Please see [this explanation](https://github.com/icon-community/CPS/wiki/Funding-Cycle-Explanation) of CPS funding cycles and how it may affect development and disbursement of funding_
 
 Expected start date: _start date_
 
