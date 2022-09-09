@@ -45,7 +45,8 @@ BSC Mainnet launched on 17th August instead of 15th August
 | Documentation for the Icon Bridge Repo | Almost complete | This is almost complete and is running through internal reviews. This will be an ongoing task to ensure new users of the repo can understand the codebase more easily |
 | Improve code coverage of the code base | Not Started | The codecoverage of the repo is low. Work towards achieving the target of 80% coverage to improve the health of the overall codebase. |
 | Assist with Security Audit | In Progress | The Security Audit has started. Any information needed to be provided or fixes needed based on security audit review will be provided adhoc.|
-| Assist with Near release and integration | In Progress | Near integration deployment is being planned September Release. Team to assist. |
+| Assist with Near release and integration | In Progress | Near is currently in Testnet. Mainnet deployment and Nexus integration is being planned September Release. Team to assist. |
+| Assist with SNOW release and integration | Not Started | SNOW deployment and integration is being planned on Testnet and Mainnet for September Release. Team to assist. |
 
 
 
