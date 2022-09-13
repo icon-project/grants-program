@@ -25,16 +25,18 @@ BSC Mainnet launched on 17th August instead of 15th August
 | update solc version used by ERC20TKN and HRC20 contracts | Released | Update Solc version as ERC20TKN and HRC20 contracts still use solidity versions less than v0.8.0 while other contracts use version greater than it. | https://github.com/icon-project/icon-bridge/issues/174 |
 | Update bsc relay config parameters | Released | Hard-coded config params to be reflected in the deployment environment | https://github.com/icon-project/icon-bridge/issues/161 |
 | Add useful logging to relay | Released | Add logging data necessary to debug issues on the relay | https://github.com/icon-project/icon-bridge/issues/159 |
+| Add notification for low relay balance | Released | Notify with a warning log if relay balances goes below configured threshold | https://github.com/icon-project/icon-bridge/issues/272 |
 | Get receipts from blocks| Released | Reduce the number of RPC calls | https://github.com/icon-project/icon-bridge/issues/240 |
 | BSC header verification | Released | improve security and conform to the definition of having chained blocks | https://github.com/icon-project/icon-bridge/issues/243 |
 | Improve slack message formatting | Released | Improve readability of slack log messages | https://github.com/icon-project/icon-bridge/issues/214 |
 | Sanitize E2E framework code | Released | Remove mention of keys, including test units, and hard-coded values | https://github.com/icon-project/icon-bridge/issues/204 |
-| Include uint256 as maximum value for transactions | Released |  Smart contracts must conform to common integer bound | https://github.com/icon-project/icon-bridge/issues/195 |
-| Use filter query to check if BTP message exists in chain | Released |  Enhancement to reduce the number of RPC calls | https://github.com/icon-project/icon-bridge/issues/305 |
-| TransferBatch check if input request empty | Released |  Avoid wasteful transactions especially on the side of BMR | https://github.com/icon-project/icon-bridge/issues/251 |
-| Duplication of Serial Number  | Released |  Serial numbers should be unique even after contract upgrade | https://github.com/icon-project/icon-bridge/issues/324 |
-| Update block confirmation interval | Released |  Issue fix regarding block verifier failing and gets stuck in a loop causing the relay to become stuck | https://github.com/icon-project/icon-bridge/issues/322|
-
+| Include uint256 as maximum value for transactions | Released | Smart contracts must conform to common integer bound | https://github.com/icon-project/icon-bridge/issues/195 |
+| Use filter query to check if BTP message exists in chain | Released | Enhancement to reduce the number of RPC calls | https://github.com/icon-project/icon-bridge/issues/305 |
+| TransferBatch check if input request empty | Released | Avoid wasteful transactions especially on the side of BMR | https://github.com/icon-project/icon-bridge/issues/251 |
+| Duplication of Serial Number  | Released | Serial numbers should be unique even after contract upgrade | https://github.com/icon-project/icon-bridge/issues/324 |
+| Update block confirmation interval | Released | Issue fix regarding block verifier failing and gets stuck in a loop causing the relay to become stuck | https://github.com/icon-project/icon-bridge/issues/322 |
+| Add BTS contract upgrade script | Released | A helper script to upgrade pre-deployed BTS contract in testnet/mainnet | https://github.com/icon-project/icon-bridge/issues/320 |
+| Fix nativecoin (ICX) fee gathering issue | Released | During cross chain transfer of ICX from ICON to BSC, the fee collected is not being sent to fee gathering address | https://github.com/icon-project/icon-bridge/issues/317 |
 
 
 ## Deliverables Projected for Next Cycle
