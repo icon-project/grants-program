@@ -47,6 +47,8 @@ None
 | Assist with Security Audit | In Progress | The Security Audit has started. Any information needed to be provided or fixes needed based on security audit review will be provided adhoc.|
 | Assist with Near release and integration | In Progress | Near is currently in Testnet. Mainnet deployment and Nexus integration is being planned September Release. Team to assist. |
 | Assist with SNOW release and integration | In Progress | SNOW deployment and integration is being planned on Testnet and Mainnet for September Release. Team to assist. |
+| Deploy smart contract and relays to all the chains that have similarity to BSC  | Not Started | Update script to go through and deploy the contracts and relays to all the chains that have similarity to BSC like Harmony Ethereum, polygon, avalanche on local and testnet |
+| Planning to implement the xcall specification for BSC  | Not Started | Planning and estimation to implement the xcall specification for BSC |
 
 
 
