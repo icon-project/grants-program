@@ -34,8 +34,8 @@ __Deliverables in progress__
 
 | Name | Development State | Notes | Source / location |
 | ---- | ----------------- | ----- | ----------------- |
-| Relayer: sender module, receiver module, client module | in progress | https://github.com/appliedblockchain/icon-bridge (private)|
-| BMC message decoding handler | in progress | https://github.com/appliedblockchain/icon-bridge (private)|
+| Relayer: sender module, receiver module, client module | in progress | | https://github.com/appliedblockchain/icon-bridge (private)|
+| BMC message decoding handler | in progress | | https://github.com/appliedblockchain/icon-bridge (private)|
 
 
 ### Projected for next cycle
