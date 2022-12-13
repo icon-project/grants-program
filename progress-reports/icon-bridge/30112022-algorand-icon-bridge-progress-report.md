@@ -20,9 +20,7 @@ Also executes the services, requested from the other blockchain, that arrived in
 
 __Roadmap amendments__
 
-| Name | Change | Explanation | New date |
-| ---- | ------ | ----------- | ---------- |
-| Project delivery date | postponed | the work has been paused for some time, the new date also accounts for Xmas holidays | 16/01/2023 |
+There were no roadmap amendments since October 2022.
 
 ## Amendments to budget
 
