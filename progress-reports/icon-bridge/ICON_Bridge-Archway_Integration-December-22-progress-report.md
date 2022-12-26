@@ -23,7 +23,7 @@ __Deliverables ready__
 
 | Module| Name | Development State | Notes | Source / location |
 | ---- | --------- | ----------------- | ----- | ----------------- |
-|  | Research on IBC Archway Integration | Alpha |  | [Document](https://docs.google.com/document/d/1ffy7IrGpXZJPCANn3tW01WZu6jsBbuhVlG-xSQOeMEw/edit?usp=sharing) |
+|  | Research on IBC ICON Archway Integration | Alpha |  | [Document](https://docs.google.com/document/d/1ffy7IrGpXZJPCANn3tW01WZu6jsBbuhVlG-xSQOeMEw/edit?usp=sharing) |
 
 ### Projected for next cycle
 
