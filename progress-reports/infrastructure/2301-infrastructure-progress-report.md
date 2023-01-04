@@ -14,6 +14,9 @@ Things of note:
 - Added a couple options needed to support features in the frontend like sorting of columns and others 
 - Started working on a new infra deployment focusing first on improving the current logging setup. 
   - Work on this will continue over the coming months as we make efforts to drive down costs and increase reliability.
+  - Hired contractor and getting him up to speed for assisting with this work. 
+- While not directly related to tracker, did build [smart contract code generator POC](https://github.com/sudoblockio/tackle-icon-sc-poc)
+- Created two projects for Devera Hackathon
 
 
 ### [icon-tracker-frontend](https://github.com/sudoblockio/icon-tracker-frontend)
