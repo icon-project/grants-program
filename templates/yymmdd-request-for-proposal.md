@@ -1,10 +1,6 @@
-## Collaborator
+## **Title**
 
-This RFP is a collaboration with X and the [ICON Sustainability User Group](https://github.com/icon-project/community/tree/main/user-groups/sustainability)
-
-They are willing to provide support in the form of …
-
-Please contact X to coordinate a follow up with the collaborating team
+*Title Here*
 
 ## **Summary and background**
 
@@ -55,3 +51,11 @@ ICON Foundation will evaluate proposals based on the following criteria:
 - Company experience
 - References
 - Proposal professionalism and quality
+
+## Collaborator
+
+This RFP is a collaboration with X and the [ICON Sustainability User Group](https://github.com/icon-project/community/tree/main/user-groups/sustainability)
+
+They are willing to provide support in the form of …
+
+Please contact X to coordinate a follow up with the collaborating team
