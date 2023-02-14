@@ -1,13 +1,11 @@
-# Progress Report
+# IBC - January 2023 Progress Update
 
-**Project:**  IBC - Archway Integration  
-**Proposal:** Private  
-**Team:** HugoByte  
-**Reporting Period:** 01 Jan 2023 - 31 Jan 2023
+## Intro
+This progress report is for IBC Integration related development work by HugoByte Team. The report is from  1-January-2023 to 31-January-2023
 
 ## Summary
 
-As per the new direction, the focus has been shifted to enabling IBC for all the integrations which will further widen the interoperability of ICON Hub in the Cosmos and Interchain ecosystem
+Integration of IBC to connect ICON with Polygon and Archway
 
 ## Deliverables
 
