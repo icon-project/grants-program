@@ -18,11 +18,11 @@ Made multiple pull request for fixing issues, reporting bugs and/or making impro
 ### Accomplished this cycle
 
 __Deliverables ready__
-| Module| Name | Development State | Notes | Source / location |
-| ---- | --------- | ----------------- | ----- | ----------------- |
-|  | Tutorials: How to setup and decentralize a local network | Approved |  | [PR](https://github.com/icon-project/devportal/commit/47ee985a8ece8e38270f6c5bf6cb5ff692f36c53) |
-|  | Fixed content on tutorial | Approved |  | [PR](https://github.com/icon-project/devportal/pull/61) |
-|  | Added content to repository | Approved |  | [PR](https://github.com/icon-community/awesome-icon/pull/24) |
+| Name | Development State | Notes | Source / location |
+| --------- | ----------------- | ----- | ----------------- |
+| Tutorials: How to setup and decentralize a local network | Approved |  | [PR](https://github.com/icon-project/devportal/commit/47ee985a8ece8e38270f6c5bf6cb5ff692f36c53) |
+| Fixed content on tutorial | Approved |  | [PR](https://github.com/icon-project/devportal/pull/61) |
+| Added content to repository | Approved |  | [PR](https://github.com/icon-community/awesome-icon/pull/24) |
 
 
 ### Projected for next cycle
