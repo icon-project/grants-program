@@ -23,6 +23,10 @@ __Deliverables ready__
 | Tutorials: How to setup and decentralize a local network | Approved |  | [PR](https://github.com/icon-project/devportal/commit/47ee985a8ece8e38270f6c5bf6cb5ff692f36c53) |
 | Fixed content on tutorial | Approved |  | [PR](https://github.com/icon-project/devportal/pull/61) |
 | Added content to repository | Approved |  | [PR](https://github.com/icon-community/awesome-icon/pull/24) |
+| Added content to repository | Approved |  | [PR](https://github.com/icon-community/awesome-icon/pull/24) |
+| Updated tutorial | Approved | Added details on how to get validators, max supply and IISS revision | [PR](https://github.com/icon-project/devportal/pull/66) |
+| Updated instructions | Approved | Updated installation instructions for goloop cli | [PR](https://github.com/icon-project/devportal/pull/67) |
+| Tutorials: Accounts and authentication on the ICON Network | Approved |  | [PR](TBD) |
 
 
 ### Projected for next cycle
