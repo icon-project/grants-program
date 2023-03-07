@@ -26,13 +26,15 @@ __Deliverables ready__
 | Added content to repository | Approved |  | [PR](https://github.com/icon-community/awesome-icon/pull/24) |
 | Updated tutorial | Approved | Added details on how to get validators, max supply and IISS revision | [PR](https://github.com/icon-project/devportal/pull/66) |
 | Updated instructions | Approved | Updated installation instructions for goloop cli | [PR](https://github.com/icon-project/devportal/pull/67) |
-| Tutorials: Accounts and authentication on the ICON Network | Approved |  | [PR](TBD) |
+| Tutorials: Accounts and authentication on the ICON Network | Approved |  | [PR](https://docs.icon.community/icon-stack/accounts-and-authentication) |
+| Updated instructions on gochain-local | in-progress|  | [PR](https://github.com/icon-project/gochain-local/pull/6) |
+| Updated installation steps and Makefile on BTP repo | in-progress|  | [PR](https://github.com/icon-project/btp2/pull/1) |
 
 
 ### Projected for next cycle
 
 __Deliverables projected for next cycle__
 
-| Module| Name | Development State | Notes |
-| ---- | ---- | ----------------- | ----- |
-| | Interact with Smart contract| Research | |
+|  Name | Development State | Notes |
+|  ---- | ----------------- | ----- |
+| Interact with Smart contract| Research | |
