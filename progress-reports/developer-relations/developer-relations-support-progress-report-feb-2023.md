@@ -9,9 +9,17 @@ Started working with Eric Solomon and Cyrus Vorwald on the Developer Relations t
 
 Task list of all tutorials needed was created and started working on high priority tasks.
 
-Setup validator node on lisbon testnet network and made available publicly to help developers by having more nodes that can be used for testing. Also setup local tesnet network to be used internally by developer relations team.
+Setup validator node on lisbon testnet network and made available publicly to help developers by having more nodes that can be used for testing.
+
+Setup local tesnet network to be used internally by developer relations team.
 
 Made multiple pull request for fixing issues, reporting bugs and/or making improvements on the different repositories of the ICON Community and ICON Foundation github accounts.
+
+Started test work setting up BTP relayer environment on ICON Testnets.
+
+Collaborating with the drogon team to report issues and improve the product.
+
+Collaborating  with the Discord admins for technical support on ICON-related development issues from community members and organizations.
 
 ## Deliverables
 
