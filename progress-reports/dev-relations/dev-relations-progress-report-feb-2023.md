@@ -27,7 +27,7 @@ __Deliverables ready__
 | Updated tutorial | Approved | Added details on how to get validators, max supply and IISS revision | [PR](https://github.com/icon-project/devportal/pull/66) |
 | Updated instructions | pending | Updated installation instructions for goloop cli | [PR](https://github.com/icon-project/devportal/pull/67) |
 | Tutorials: Accounts and authentication on the ICON Network | Approved |  | [PR](https://docs.icon.community/icon-stack/accounts-and-authentication) |
-| Tutorials: How to check is a validator is missing blocks | Approved |  | [PR](https://docs.icon.community/support/advanced-topics/validator-nodes/how-to-check-if-a-validator-is-missing-blocks) |
+| Tutorials: How to check if a validator is missing blocks | Approved |  | [PR](https://docs.icon.community/support/advanced-topics/validator-nodes/how-to-check-if-a-validator-is-missing-blocks) |
 | Updated instructions on gochain-local | in-progress|  | [PR](https://github.com/icon-project/gochain-local/pull/6) |
 | Updated installation steps and Makefile on BTP repo | in-progress|  | [PR](https://github.com/icon-project/btp2/pull/1) |
 | Fixed broken links in devportal | Approved |  | [PR](https://github.com/icon-project/devportal/pull/63) |
