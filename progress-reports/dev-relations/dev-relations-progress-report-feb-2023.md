@@ -25,16 +25,20 @@ __Deliverables ready__
 | Added content to repository | Approved |  | [PR](https://github.com/icon-community/awesome-icon/pull/24) |
 | Added content to repository | Approved |  | [PR](https://github.com/icon-community/awesome-icon/pull/24) |
 | Updated tutorial | Approved | Added details on how to get validators, max supply and IISS revision | [PR](https://github.com/icon-project/devportal/pull/66) |
-| Updated instructions | Approved | Updated installation instructions for goloop cli | [PR](https://github.com/icon-project/devportal/pull/67) |
+| Updated instructions | pending | Updated installation instructions for goloop cli | [PR](https://github.com/icon-project/devportal/pull/67) |
 | Tutorials: Accounts and authentication on the ICON Network | Approved |  | [PR](https://docs.icon.community/icon-stack/accounts-and-authentication) |
+| Tutorials: How to check is a validator is missing blocks | Approved |  | [PR](https://docs.icon.community/support/advanced-topics/validator-nodes/how-to-check-if-a-validator-is-missing-blocks) |
 | Updated instructions on gochain-local | in-progress|  | [PR](https://github.com/icon-project/gochain-local/pull/6) |
 | Updated installation steps and Makefile on BTP repo | in-progress|  | [PR](https://github.com/icon-project/btp2/pull/1) |
+| Fixed broken links in devportal | Approved |  | [PR](https://github.com/icon-project/devportal/pull/63) |
 
 
 ### Projected for next cycle
 
-__Deliverables projected for next cycle__
-
-|  Name | Development State | Notes |
-|  ---- | ----------------- | ----- |
-| Interact with Smart contract| Research | |
+For next cycle the projected task are:
+* Continue fixing miscelaneous issues on the devportal
+* Continue creating documentation articles in the devportal
+* Create tutorials for the icon.community/tutorials/ section
+* Support developers on the several discord channels
+* Testing drogon and report to team issues and recommendations
+* Create tutorials related to smart contracts on ICON
