@@ -18,6 +18,8 @@
         repo: icon-tracker
       - owner: sudoblockio
         repo: icon-extractor
+      - owner: sudoblockio
+        repo: tackle-icon-contract
 
     month->: input What number month are you writing report in ISO format (ie Feb=02)?
     day->: input What day to run till in ISO format (ie->01)? --default 01
