@@ -6,22 +6,23 @@
     repo_names:
       - owner: sudoblockio
         repo: icon-tracker-frontend
-      - owner: sudoblockio
-        repo: icon-transformer
-      - owner: sudoblockio
-        repo: icon-go-api
-      - owner: sudoblockio
-        repo: icon-contracts
-      - owner: sudoblockio
-        repo: icon-governance
-      - owner: sudoblockio
-        repo: icon-tracker
-      - owner: sudoblockio
-        repo: icon-extractor
-      - owner: sudoblockio
-        repo: tackle-icon-contract
+#      - owner: sudoblockio
+#        repo: icon-transformer
+#      - owner: sudoblockio
+#        repo: icon-go-api
+#      - owner: sudoblockio
+#        repo: icon-contracts
+#      - owner: sudoblockio
+#        repo: icon-governance
+#      - owner: sudoblockio
+#        repo: icon-tracker
+#      - owner: sudoblockio
+#        repo: icon-extractor
+#      - owner: sudoblockio
+#        repo: tackle-icon-contract
 
     month->: input What number month are you writing report in ISO format (ie Feb=02)?
+    month_int->: int {{month}}
     day->: input What day to run till in ISO format (ie->01)? --default 01
 
     repos->:
