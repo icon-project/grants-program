@@ -55,7 +55,8 @@ https://github.com/icon-project/ibc-relay
 | Integrate unit test checks on github workflow for relay | Not Started | DevOps Task. https://github.com/icon-project/ibc-relay/issues/43 |
 | Codecov Implementation on Relay repo | Not Started | DevOps Task. https://github.com/icon-project/ibc-relay/issues/40 |
 | Codecov Implementation on Integration repo | Not Started | DevOps Task. https://github.com/icon-project/ibc-integration/issues/181 |
-
+| Test Plan Document | Not Started | Create a test plan document in collaboration with Hugobytes |
+| Relay ICON Integration | Started | ICON Module of Relay to Integrate with Archway Lightclient in ICON. https://github.com/icon-project/ibc-relay/issues/14 |
 
 
 ## Sample of docs
