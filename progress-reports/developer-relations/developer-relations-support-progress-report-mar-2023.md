@@ -31,9 +31,9 @@ __Deliverables ready__
 | Tutorials on icon.community: How to check if a validator is missing blocks | Approved |  | [PR](https://github.com/icon-community/icon.community/pull/151)
 | Updated instructions on gochain-local | Approved |  | [PR](https://github.com/icon-project/gochain-local/pull/6) |
 | Created `gochain-local-decentralize`. | Approved | A helper script for decentralizing a local network created using the [gochain-local](https://github.com/icon-project/gochain-local) repo. | [Repo](https://github.com/icon-community/gochain-local-decentralize) |
-| Created "How to Create a Custom Testnet" tutorial for icon.community. | In-Progress |  | [PR](https://github.com/icon-community/icon.community/pull/162) |
+| Created "How to Create a Custom Testnet" tutorial for icon.community. | Approved |  | [PR](https://github.com/icon-community/icon.community/pull/162) |
 | Fixed content on JSON RPC API page. | Approved |  | [PR](https://github.com/FidelVe/devportal/commit/200c01482e8f970539cefbb7e6e4fe53f5c768fc) |
-| Created set of tutorials (3 parts) about smart contracts. | Review |  | [PR](https://github.com/icon-community/icon.community/pull/168) |
+| Created set of tutorials (3 parts) about smart contracts. | Approved |  | [PR](https://github.com/icon-community/icon.community/pull/168) |
 | Created tutorial on how to interact with ICON wallets in the browser. | Approved |  | [PR](https://github.com/icon-community/icon.community/pull/165) |
 
 ### Projected for next cycle
