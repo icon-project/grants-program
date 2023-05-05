@@ -23,7 +23,8 @@
 
     month->: input What number month are you writing report in ISO format (ie Feb=02)?
     month_int->: int {{month}}
-    next_month_iso->: var "0{{month_int + 1}}" --if month_int<10 --else "{{month_int + 1}}"
+    next_month->: var "{{month_int + 1}}"
+    next_month_iso->: var "0{{next_month}}" --if month_int<10 --else "{{next_month}}"
     day->: input What day to run till in ISO format (ie->01)? --default 01
 
     repos->:
