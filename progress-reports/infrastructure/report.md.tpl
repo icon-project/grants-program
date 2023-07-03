@@ -13,7 +13,6 @@ This is a progress update for {{month_int - 1}}/2022 on infrastructure provided 
 | Number | Name | Status | Created | Notes |
 | --- | --- | --- | --- | --- |{% for i in r.closed_issues %}
 | [{{ i.number }}]({{ i.html_url }}) | {{ i.title }} | {{ i.state }} | {{ i.created_at }} | | {% endfor %}
-| | | | | |
 
 #### Open Issues
 
