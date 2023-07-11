@@ -23,7 +23,7 @@
 
     month->: input What number month are you writing report in ISO format (ie Feb=02)?
     month_int->: int {{month}}
-    next_month_iso->: var "0{{month_int + 1}}" --if month_int<10 --else "{{month_int + 1}}"
+    last_month_iso->: var "0{{month_int - 1}}" --if month_int<10 --else "{{month_int - 1}}"
     day->: input What day to run till in ISO format (ie->01)? --default 01
 
     repos->:
@@ -40,4 +40,4 @@
       closed_issues->: http_get {{closed_issues_link}}
       open_issues->: http_get {{open_issues_link}}
 
-    gen->: generate report.md.tpl 23{{next_month_iso}}-infrastructure-progress-report.md
+    gen->: generate report.md.tpl 23{{last_month_iso}}-infrastructure-progress-report.md

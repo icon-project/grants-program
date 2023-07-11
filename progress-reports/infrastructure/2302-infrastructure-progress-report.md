@@ -1,6 +1,6 @@
 # Tracker Monthly Report
 
-This is a progress update for 02/2022 on infrastructure provided by sudoblock including development of the tracker frontend, indexer, and infrastructure.
+This is a progress update for 02/2023 on infrastructure provided by sudoblock including development of the tracker frontend, indexer, and infrastructure.
 
 The development activities for this period were primarily focused on squashing a number of frontend bugs and preparing for some major upgrades to the backend services and infrastructure deployment. Major events include the redirection of the foundation tracker to the community. With that came a big increase in traffic which now averages ~50 rps over the month including 60k unique visitors (IPs - not necessarily users). The backend has held up fine except for a disruption caused by the cloud provider, brief 5 minute SSL disruptions due to porting to iconblockchain.xyz, and the intentional stopping of the RPC endpoints during the OMM exploit. 
 
