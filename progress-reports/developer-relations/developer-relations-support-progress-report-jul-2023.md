@@ -1,7 +1,7 @@
-# Developer Relations - Progress report for Jul/Aug 2023.
+# Developer Relations - Progress report for Jul 2023.
 
 ## Intro
-This progress report is for the contract work of Fidel Sanchez-Bueno in the Development Relations teams. The report is from  14-07-2023 to 14-08-2023
+This progress report is for the contract work of Fidel Sanchez-Bueno in the Development Relations teams. The report is from  14-07-2023 to 31-07-2023
 
 ## Summary
 
