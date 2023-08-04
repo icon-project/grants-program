@@ -40,4 +40,4 @@
       closed_issues->: http_get {{closed_issues_link}}
       open_issues->: http_get {{open_issues_link}}
 
-    gen->: generate report.md.tpl 23{{next_month_iso}}-infrastructure-progress-report.md
+    gen->: generate report.md.tpl 23{{month}}-infrastructure-progress-report.md
