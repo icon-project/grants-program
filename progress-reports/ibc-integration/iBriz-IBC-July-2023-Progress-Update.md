@@ -66,7 +66,7 @@ Milestone 1 - Testnet Deployment on Archway and ICON - 11th August 2023
 |:-----|:------------------|:-----|
 | Internal Code Reviews | In Progress | Code Reviews - https://github.com/icon-project/IBC-Integration/issues/471 |
 | Documentation | In Progress | Documentation - https://github.com/icon-project/IBC-Integration/issues/113 |
-| Security Audit | In Progress | Code Fix - https://github.com/icon-project/IBC-Integration/issues/72 |
+| Internal Security Review | In Progress | Security Review - https://github.com/icon-project/ibc-planning/issues/166 |
 | Testnet Release | In Progress | Code Fix - https://github.com/icon-project/IBC-Integration/issues/76 |
 
 
