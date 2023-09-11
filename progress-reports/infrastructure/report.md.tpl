@@ -1,6 +1,6 @@
 # Tracker Monthly Report
 
-This is a progress update for {{month_int}}/2022 on infrastructure provided by sudoblock including development of the tracker, indexer, and operation of RPC endpoints being used to support the ICON ecosystem.
+This is a progress update for {{month_int}}/2023 on infrastructure provided by sudoblock including development of the tracker, indexer, and operation of RPC endpoints being used to support the ICON ecosystem.
 
 ### Summary
 
