@@ -29,7 +29,7 @@
 
     repos->:
       for: repo_names
-      name->: {{item.repo}}
+      name->: "{{item.repo}}"
       url->: https://github.com/{{item.owner}}/{{item.repo}}
 
       closed_issues_link->: var https://api.github.com/repos/{{item.owner}}/{{item.repo}}/issues?state=closed&since=2023-{{month}}-{{day}}T00:00:00Z&per_page=100
