@@ -20,6 +20,10 @@
         repo: icon-extractor
       - owner: sudoblockio
         repo: tackle-icon-contract
+      - owner: balancednetwork
+        repo: balanced-backend
+      - owner: sudoblockio
+        repo: icon-stats
 
     month->: input What number month are you writing report in ISO format (ie Feb=02)?
     month_int->: int {{month}}
