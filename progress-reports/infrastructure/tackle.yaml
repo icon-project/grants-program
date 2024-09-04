@@ -14,12 +14,6 @@
         repo: icon-contracts
       - owner: sudoblockio
         repo: icon-governance
-      - owner: sudoblockio
-        repo: icon-tracker
-      - owner: sudoblockio
-        repo: icon-extractor
-      - owner: sudoblockio
-        repo: tackle-icon-contract
       - owner: balancednetwork
         repo: balanced-backend
       - owner: sudoblockio
