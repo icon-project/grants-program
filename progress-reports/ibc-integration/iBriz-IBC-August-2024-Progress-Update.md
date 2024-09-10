@@ -1,8 +1,8 @@
-# IBC - July 2024 Progress Update
+# IBC - August 2024 Progress Update
 
 ## Intro
 This progress report is for IBC Integration related development work by iBriz Team. 
-The next phase of the project will include Centralised Relay development, Hopchain integration, Wormhole and Layerzero adapter integration as well as integration of other chains to the bridging ecosystem. The report is from  1-July-2024 to 31-July-2024
+The next phase of the project will include Centralised Relay development, Hopchain integration, Wormhole and Layerzero adapter integration as well as integration of other chains to the bridging ecosystem. The report is from  1-August-2024 to 31-August-2024
 
 ## Summary
 Integration of IBC to connect ICON with Archway
