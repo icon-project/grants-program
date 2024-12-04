@@ -1,6 +1,9 @@
 
 <-:
   help: Pulls issues from github and builds a table so that monthly reports can be generated
+  month->: input What number month are you writing report in ISO format (ie Feb=02)?
+  day->: input What day to run till in ISO format (ie->01)? --default 01
+  github_token->: password Enter your github token --default {{get_env('GITHUB_TOKEN')}}
 
   exec:
     repo_names:
@@ -19,11 +22,9 @@
       - owner: sudoblockio
         repo: icon-stats
 
-    month->: input What number month are you writing report in ISO format (ie Feb=02)?
     month_int->: int {{month}}
     last_month_iso->: var "0{{month_int - 1}}" --if month_int<10 --else "{{month_int - 1}}"
     next_month_iso->: var "0{{month_int + 1}}" --if month_int<9 --else "{{month_int + 1}}"
-    day->: input What day to run till in ISO format (ie->01)? --default 01
 
     repos->:
       for: repo_names
@@ -36,7 +37,14 @@
       closed_issues_info->: print Getting {{closed_issues_link}}
       open_issues_info->: print Getting {{open_issues_link}}
 
-      closed_issues->: http_get {{closed_issues_link}}
-      open_issues->: http_get {{open_issues_link}}
+      closed_issues:
+        ->: http_get {{closed_issues_link}}
+        headers:
+          Authorization: Bearer {{get_env('GITHUB_TOKEN')}}
+      open_issues:
+        ->: http_get {{open_issues_link}}
+#        ->: http_get {{closed_issues_link}}
+        headers:
+          Authorization: Bearer {{get_env('GITHUB_TOKEN')}}
 
     gen->: generate report.md.tpl 24{{next_month_iso}}-infrastructure-progress-report.md
