@@ -31,8 +31,8 @@
       name->: "{{item.repo}}"
       url->: https://github.com/{{item.owner}}/{{item.repo}}
 
-      closed_issues_link->: var https://api.github.com/repos/{{item.owner}}/{{item.repo}}/issues?state=closed&since=2024-{{month}}-{{day}}T00:00:00Z&per_page=100
-      open_issues_link->: var https://api.github.com/repos/{{item.owner}}/{{item.repo}}/issues?state=open&since=2024-{{month}}-{{day}}T00:00:00Z&per_page=100
+      closed_issues_link->: var https://api.github.com/repos/{{item.owner}}/{{item.repo}}/issues?state=closed&since=2025-{{month}}-{{day}}T00:00:00Z&per_page=100
+      open_issues_link->: var https://api.github.com/repos/{{item.owner}}/{{item.repo}}/issues?state=open&since=2025-{{month}}-{{day}}T00:00:00Z&per_page=100
 
       closed_issues_info->: print Getting {{closed_issues_link}}
       open_issues_info->: print Getting {{open_issues_link}}
@@ -43,8 +43,7 @@
           Authorization: Bearer {{get_env('GITHUB_TOKEN')}}
       open_issues:
         ->: http_get {{open_issues_link}}
-        #        ->: http_get {{closed_issues_link}}
         headers:
           Authorization: Bearer {{get_env('GITHUB_TOKEN')}}
 
-    gen->: generate report.md.tpl 24{{next_month_iso}}-infrastructure-progress-report.md
+    gen->: generate report.md.tpl 25{{next_month_iso}}-infrastructure-progress-report.md
