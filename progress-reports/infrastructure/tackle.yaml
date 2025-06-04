@@ -3,7 +3,6 @@
   help: Pulls issues from github and builds a table so that monthly reports can be generated
   month->: input What number month are you writing report in ISO format (ie Feb=02)?
   day->: input What day to run till in ISO format (ie->01)? --default 01
-  github_token->: password 'Enter your github token' --default {{get_env('GITHUB_TOKEN')}}
 
   exec:
     repo_names:
