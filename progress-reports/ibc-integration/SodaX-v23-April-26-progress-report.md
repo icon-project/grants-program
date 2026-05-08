@@ -1,4 +1,4 @@
-# SodaX - March 2026 Progress Update
+# SodaX - April 2026 Progress Update
 
 ## Intro
 This progress report is for SodaX related development work by Venture23 Team. 
@@ -23,15 +23,14 @@ Milestone 1 - SodaX Mainnet - Phase1 - TBD
 
 | Name | Development State | Notes | Source / location |
 |:----- |:------------------ | :----| :----------------| 
-| Redbelly Integration |  On Hold | Solver | https://github.com/icon-project/sodax-contracts/issues/461 |
-| BTC Radfi Integration |  Completed | Overall | https://github.com/icon-project/ICON-Projects-Planning/issues/624 |
-| Stacks Integration |  In Preprod | Overall | https://github.com/icon-project/ICON-Projects-Planning/issues/624 |
+| Redbelly Integration |  Completed| Solver | https://github.com/icon-project/sodax-contracts/issues/461 |
+| Stacks Integration |  Completed | Overall | https://github.com/icon-project/ICON-Projects-Planning/issues/624 |
 | SUI amm Integration |  Completed | Solver | https://github.com/icon-project/sodax-solver/issues/130 |
-| Sodax Bridge Integration|  In Staging | Solver | https://github.com/icon-project/sodax-solver-v2/issues/130 |
+| Sodax Bridge Integration|  Completed | Solver | https://github.com/icon-project/sodax-solver-v2/issues/130 |
 | Near Integration Bug fixes and enhancement |  In progress | Solver | https://github.com/icon-project/ICON-Projects-Planning/issues/614 |
 | Curve on Arbitrum |  Completed | Solver | https://github.com/icon-project/sodax-solver/issues/157 |
 | Near Intent |  Completed | Solver | https://github.com/icon-project/ICON-Projects-Planning/630 |
-| Flying Tulip Integration |  In Progress | Solver | https://github.com/icon-project/ICON-Projects-Planning/630 |
+| Flying Tulip Integration |  Completed | Solver | https://github.com/icon-project/ICON-Projects-Planning/630 |
 
 
 
